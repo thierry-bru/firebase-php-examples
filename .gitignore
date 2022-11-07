@@ -10,3 +10,4 @@ credentials.json
 ###< symfony/framework-bundle ###
 
 .phpunit.result.cache
+composer.lock
